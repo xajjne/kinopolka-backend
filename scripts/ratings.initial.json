@@ -1,0 +1,23 @@
+[
+  {
+    "type": "movie",
+    "tmdbId": 550,
+    "source": "kinopoisk",
+    "score": 8.7,
+    "url": "https://www.kinopoisk.ru/film/361/"
+  },
+  {
+    "type": "series",
+    "tmdbId": 1399,
+    "source": "kinopoisk",
+    "score": 9,
+    "url": "https://www.kinopoisk.ru/series/464963/"
+  },
+  {
+    "type": "series",
+    "tmdbId": 1399,
+    "source": "seriesgraph",
+    "score": 9.2,
+    "url": "https://seriesgraph.com/show/1399-game-of-thrones"
+  }
+]
